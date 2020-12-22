@@ -1,0 +1,22 @@
+syntax = "proto3";
+
+option csharp_namespace = "PolicyEngine";
+
+package authz;
+
+// The Authorization service definition
+service Authorization {
+  // Sends an authorization request
+  rpc CheckAccess (AccessRequest) returns (AccessResponse);
+}
+
+// The request message containing the required permission
+message AccessRequest {
+  string RequiredPermission = 1;
+}
+
+// The response message containing the result of the access request
+message AccessResponse {
+  bool IsGranted = 1;
+  string Message = 2;
+}
