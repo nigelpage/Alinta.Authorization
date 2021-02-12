@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{E642BB52-BD99-4282-8232-685008516768}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="PolicyEngine/Protos/CheckAccess.proto">
+    <Files>
+      <File FileName="PolicyEngine/Protos/CheckAccess.proto" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Alinta.Authorization" expanded="True">
+            <Node name="PolicyEngine" expanded="True" selected="True">
+              <Node name="Protos" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.PolicyEngine PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

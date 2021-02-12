@@ -8,3 +8,9 @@
 /Users/nigelpage/projects/Alinta.Authorization/PolicyEngine/obj/Debug/net5.0/PolicyEngine.AssemblyInfo.cs
 /Users/nigelpage/projects/Alinta.Authorization/PolicyEngine/obj/Debug/net5.0/PolicyEngine.csproj.CoreCompileInputs.cache
 /Users/nigelpage/projects/Alinta.Authorization/PolicyEngine/obj/Debug/net5.0/PolicyEngine.MvcApplicationPartsAssemblyInfo.cache
+/Users/nigelpage/repos/GitHub/Alinta.Authorization/PolicyEngine/obj/Debug/net5.0/PolicyEngine.csprojAssemblyReference.cache
+/Users/nigelpage/repos/GitHub/Alinta.Authorization/PolicyEngine/obj/Debug/net5.0/PolicyEngine.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nigelpage/repos/GitHub/Alinta.Authorization/PolicyEngine/obj/Debug/net5.0/PolicyEngine.AssemblyInfoInputs.cache
+/Users/nigelpage/repos/GitHub/Alinta.Authorization/PolicyEngine/obj/Debug/net5.0/PolicyEngine.AssemblyInfo.cs
+/Users/nigelpage/repos/GitHub/Alinta.Authorization/PolicyEngine/obj/Debug/net5.0/PolicyEngine.csproj.CoreCompileInputs.cache
+/Users/nigelpage/repos/GitHub/Alinta.Authorization/PolicyEngine/obj/Debug/net5.0/PolicyEngine.MvcApplicationPartsAssemblyInfo.cache
